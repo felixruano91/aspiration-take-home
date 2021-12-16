@@ -3,7 +3,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ## Steps to run project
 
 1. run `yarn` to install all the dependencies
-2. add env variables for `Github GraphQL API URL` and for the `token`
+2. add env variables in .env (if it doesn't exist create it at the root of the project) for `Github GraphQL API URL` and for the `token`
 3. run `yarn start` to run the project
 
 ## Available Scripts
