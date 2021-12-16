@@ -1,0 +1,1 @@
+export { GET_TOPIC_WITH_RELATED_TOPICS_BY_NAME } from './queries'

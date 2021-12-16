@@ -1,0 +1,12 @@
+query getTopicWithRelatedTopicsByName($name: String!) {
+    topic(name: $name) {
+        name
+        stargazerCount
+        relatedTopics {
+            name
+            stargazerCount
+            id
+        }
+        id
+    }
+}

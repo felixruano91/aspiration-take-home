@@ -1,0 +1,1 @@
+export { token, endpoint } from './config';
